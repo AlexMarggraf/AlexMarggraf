@@ -23,7 +23,8 @@ Welcome to my GitHub profile!
 
 ## 🚀 Projects
 
-[![ToCRDoT](https://github-readme-stats.vercel.app/api/pin/?username=istrefUka&repo=ToCRDoT&theme=tokyonight)](https://github.com/istrefUka/ToCRDoT)  
+[![ToCRDoT](https://github-readme-stats.vercel.app/api/pin/?username=istrefUka&repo=ToCRDoT&theme=tokyonight)](https://github.com/istrefUka/ToCRDoT)
+[![Tripple Pendulum Simulation](https://github-readme-stats.vercel.app/api/pin/?username=p-vf&repo=tracer-os-project&theme=tokyonight)](https://github.com/AlexMarggraf/tripple-pendulum)
 [![Linux Syscall Tracer](https://github-readme-stats.vercel.app/api/pin/?username=p-vf&repo=tracer-os-project&theme=tokyonight)](https://github.com/p-vf/tracer-os-project)
 
 ---
