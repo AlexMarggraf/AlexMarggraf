@@ -1,6 +1,6 @@
-# Hi there 👋  
+#  👤 About Me 
 
-Welcome to my GitHub profile!  
+Hello, I'm currently a bachelor student from the university of Basel.
 
 ---
 
