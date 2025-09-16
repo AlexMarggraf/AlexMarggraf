@@ -10,8 +10,7 @@ Hello, I'm currently a bachelor student from the university of Basel.
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AlexMarggraf&show_icons=true&theme=tokyonight)  
-![Streak](https://streak-stats.demolab.com?user=AlexMarggraf&theme=tokyonight&date_format=M%20j%5B,%20Y%5D)  
+![Stats](https://github-readme-stats.vercel.app/api?username=AlexMarggraf&show_icons=true&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarggraf&layout=compact&theme=tokyonight)
 
 ---
