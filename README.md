@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 ## 🚀 Projects
 
 [![ReadMe Card](https://img.shields.io/badge/GitHub-Linux_Syscall_Tracer-blue?logo=github&style=for-the-badge)](https://github.com/p-vf/tracer-os-project)
-[![ReadMe Card](https://img.shields.io/badge/GitHub-tripple-pendulum-blue?logo=github&style=for-the-badge)](https://github.com/AlexMarggraf/tripple-pendulum)
+[![tripple-pendulum](https://github-readme-stats.vercel.app/api/pin/?username=AlexMarggraf&repo=tripple-pendulum&theme=tokyonight)](https://github.com/AlexMarggraf/tripple-pendulum)
 [![ReadMe Card](https://img.shields.io/badge/GitHub-ToCRDoT-blue?logo=github&style=for-the-badge)](https://github.com/istrefUka/ToCRDoT)  
 
 
