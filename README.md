@@ -21,15 +21,16 @@ Welcome to my GitHub profile!
 
 ---
 
-## Contributions
-![ToCRDoT](https://github.com/istrefUka/ToCRDoT)
-![ToCRDoT](https://github.com/p-vf/tracer-os-project)
+## 🚀 Projects
+
+[![ToCRDoT](https://github-readme-stats.vercel.app/api/pin/?username=istrefUka&repo=ToCRDoT&theme=tokyonight)](https://github.com/istrefUka/ToCRDoT)  
+[![Linux Syscall Tracer](https://github-readme-stats.vercel.app/api/pin/?username=p-vf&repo=tracer-os-project&theme=tokyonight)](https://github.com/p-vf/tracer-os-project)
 
 ---
 
 ## 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,c,matlab,docker,bash,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,python,java,c,matlab,docker,bash,git,latex" />
 </p>
 
 ---
