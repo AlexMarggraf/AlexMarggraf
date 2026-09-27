@@ -1,6 +1,6 @@
 # 👤 About Me
 
-Hello, I'm currently a bachelor's student at the University of Basel and my interests lay in physics simulations and machine learning. Below you can find some projects I have worked on during my university time or things that I've created in my free time. My favourite language to code in is Python but I've written a lot of code in Java, Java/TypeScript, and C. 
+Hello, I'm currently a bachelor's student at the University of Basel and my interests lay in physics simulations and machine learning. Below you can find some projects I have worked on during my university time or things that I've created in my free time. My favorite language to code in is Python but I've written a lot of code in Java, Java/Typescript, and C. 
 
 ---
 
